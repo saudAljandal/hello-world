@@ -14,9 +14,9 @@ public class HelloWorld {
 
         //simple heads tails game. Operates by Math.random()
         if (Math.random() < 0.5)
-            System.out.println("Heads!");
+            System.out.println("Head!");
         else
-            System.out.println("Tails!");
+            System.out.println("Tail!");
 
 
     }
